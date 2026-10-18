@@ -1,0 +1,22 @@
+{
+  "name": "tech-with-app-ai",
+  "version": "1.0.0",
+  "description": "Production-ready AI Chatbot API powered by OpenRouter on Vercel Serverless",
+  "main": "api/q.js",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "ai",
+    "openrouter",
+    "vercel",
+    "serverless",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT"
+}
